@@ -1,2 +1,2 @@
 # filestar-js-tools
-FileStar address generating &amp; signing tools for javascript version
+FileStar address generating &amp; message signing tools for javascript version
