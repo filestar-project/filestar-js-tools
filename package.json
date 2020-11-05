@@ -1,0 +1,31 @@
+{
+  "name": "filestar-js-tools",
+  "version": "1.0.0",
+  "description": "js tools for filestar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github2:filestar-project/filestar-js-tools.git"
+  },
+  "keywords": [
+    "FileStar"
+  ],
+  "dependencies": {
+    "@glif/filecoin-rpc-client": "^1.0.0-lerna.4",
+    "@glif/filecoin-wallet-provider": "^1.0.0-lerna.8",
+    "bip32": "^2.0.5",
+    "bip39": "^3.0.2",
+    "blakejs": "^1.1.0",
+    "base32-decode": "^1.0.0",
+    "base32-encode": "^1.1.1",
+    "secp256k1": "^4.0.2",
+    "bn.js": "^5.1.2",
+    "ipld-dag-cbor": "^0.17.0",
+    "leb128": "0.0.5"
+  },
+  "author": "FileStar team",
+  "license": "ISC"
+}
